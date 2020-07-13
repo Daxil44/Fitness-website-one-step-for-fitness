@@ -86,7 +86,8 @@
 	 
 	  
   </form>
-  
+   <h5>Do not have an account???
+  <a href="http://onestepforfitness.c1.biz/sign_up.php"> <button class="h" value="signup">Sign Up</button> </a>	  
   </div>
   </body>
   </html>
